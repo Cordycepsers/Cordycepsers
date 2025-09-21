@@ -25,13 +25,8 @@
 
 <br>
 
-<table border="0">
-  <tr>
-    <td width="40%"></td>
-    <td width="60%" align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=6000&pause=1000&color=000000&vCenter=true&width=435&lines=%22The+future%27s+not+set.+There%27s+no+fate+but+what+we+make+for+ourselves%22" alt="Typing SVG" />
-      <br>
-      <i>Kyle Reese: Judgment day.</i>
-    </td>
-  </tr>
-</table>
+<div align="center" style="text-align: center; margin-left: 20%;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=6000&pause=1000&color=000000&vCenter=true&width=435&lines=%22The+future%27s+not+set.+There%27s+no+fate+but+what+we+make+for+ourselves%22" alt="Typing SVG" />
+  <br>
+  <i>Kyle Reese: Judgment day.</i>
+</div>
