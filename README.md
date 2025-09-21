@@ -1,5 +1,5 @@
+<img width="0" height="0" src="https://visitor-badge.glitch.me/badge?page_id=Cordycepsers.Cordycepsers" />
 
-<!-- Hide README.md title -->
 <div align="center">
   <h2>Hi, I am Maja!</h2>
 </div>
