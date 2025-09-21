@@ -1,3 +1,5 @@
+# &nbsp;
+
 <div align="center">
   <h2>Hi, I am Maja!</h2>
 </div>
@@ -25,8 +27,10 @@
 
 <br>
 
-<div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=6000&pause=1000&color=000000&vCenter=true&width=435&lines=%22The+future%27s+not+set.+There%27s+no+fate+but+what+we+make+for+ourselves%22" alt="Typing SVG" />
-  <br>
-  <i>Kyle Reese: Judgment day.</i>
+<div align="center">
+  <div style="width: 80%; margin: 0 auto; text-align: right;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=6000&pause=1000&color=000000&vCenter=true&width=435&lines=%22The+future%27s+not+set.+There%27s+no+fate+but+what+we+make+for+ourselves.%22" alt="Typing SVG" />
+    <br>
+    <i>Kyle Reese: Judgment day.</i>
+  </div>
 </div>
