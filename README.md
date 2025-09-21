@@ -1,5 +1,4 @@
-# &nbsp;
-
+<!-- Hide README.md title -->
 <div align="center">
   <h2>Hi, I am Maja!</h2>
 </div>
